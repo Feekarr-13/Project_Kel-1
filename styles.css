@@ -1,13 +1,8 @@
-/* Reset styles */
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-
-/* Header styles */
 
 header {
     background-color: #333;
@@ -32,11 +27,8 @@ nav {
     margin-left: 20px;
 }
 
-
-/* Hero section styles */
-
 .hero {
-    background-image: url('hero-bg.jpg');
+    background-image: url('Profile.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -63,9 +55,6 @@ nav {
     border-radius: 4px;
 }
 
-
-/* Featured products section styles */
-
 .featured-products {
     padding: 40px 20px;
 }
@@ -89,9 +78,6 @@ nav {
     height: auto;
     margin-bottom: 10px;
 }
-
-
-/* Footer styles */
 
 footer {
     background-color: #333;
